@@ -1,1 +1,1 @@
-# workflow-management-ui
+# @nuxt4-layers/workflow-management-ui
